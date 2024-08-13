@@ -33,6 +33,7 @@ const getWeather = async () => {
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: #fa0;
 }
 
 input {
